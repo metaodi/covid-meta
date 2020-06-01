@@ -1,2 +1,4 @@
 export/*
 .ipynb_checkpoints/*
+.env
+cache/*.
